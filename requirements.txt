@@ -73,4 +73,3 @@ uvicorn==0.22.0
 wcwidth==0.2.6
 websockets==11.0.3
 widgetsnbextension==4.0.7
-streamlit==1.23.1
